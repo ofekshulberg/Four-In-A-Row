@@ -1,2 +1,2 @@
 # Four-In-A-Row
-Four In A Row game
+Four In A Row game in pygame
